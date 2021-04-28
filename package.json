@@ -30,5 +30,6 @@
     "iOS >= 7",
     "Android >= 4.0",
     "Firefox > 20"
-  ]
+  ],
+  "homepage": "https://linwt0.github.io/github-actions-demo"
 }
